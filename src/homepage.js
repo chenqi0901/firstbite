@@ -8,6 +8,7 @@ import './styles/styles.scss';
 const Homepage = () => (
   <div>
     <h1>Turtle</h1>
+    <p>I need to figure out what I should do with this project. A family recipe collection places??</p>
   </div>
 );
 

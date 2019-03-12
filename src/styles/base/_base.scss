@@ -14,3 +14,13 @@ body {
 div {
   display: block;
 }
+
+p {
+  font-family: $main-font;
+  font-size: 2rem;
+}
+
+h1 {
+  font-size: 3.6rem;
+  font-family: $h1-font;
+}
